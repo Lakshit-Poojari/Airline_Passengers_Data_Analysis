@@ -2,8 +2,9 @@ Airline Passenger Growth Trends
 This project explores time-series data to analyze passenger growth trends for airlines. Using Python libraries like Pandas, Matplotlib, and Seaborn, the analysis provides insights into seasonal trends and long-term growth patterns.
 
 Project Overview
-The aviation industry relies on passenger trends to forecast demand, optimize routes, and manage resources. This project aims to:
+The aviation industry relies on passenger trends to forecast demand, optimize routes, and manage resources. 
 
+This project aims to:
 Analyze historical passenger data to identify growth trends.
 Visualize seasonal patterns and fluctuations.
 Provide actionable insights for strategic planning.
